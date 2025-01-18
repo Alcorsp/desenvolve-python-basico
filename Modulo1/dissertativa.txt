@@ -1,0 +1,8 @@
+Início, vamos calcular quanto é 9 vezes um número n.
+Leia e armazene o número n que deseja multiplicar por 9. #Entrada
+Subtraia n menos 1 e armazene como n1. #Processamento
+Multiplique n1 por 10 e armazene como digito1. #Processamento
+Subtraia 10 menos n e armazene como digito2. #Processamento
+Some digito1 mais digito2 e salve como resultado r. #Processamento
+Imprima r como valor de 9 vezes n. #Processamento
+Sim #Saída

@@ -1,0 +1,8 @@
+Início;
+Leia e armazene n;
+n1 = n-1;
+digito1 = n1 x 10;
+digito2 = 10 - n;
+n1 x 10 + (10 - n) = r;
+Imprima 9 x n = r;
+Fim.
